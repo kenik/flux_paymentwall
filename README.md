@@ -1,7 +1,10 @@
-# Payment Wall
+#!!!Attention!!!
+This addon was tested only on Test projects. Contact me, when you will test it with approved projects for better testing and bugfixing (if needed)
+
+## Payment Wall
 You can accept donations through [Payment Wall system](https://www.paymentwall.com/) with this addon for FluxCP.
 
-# Installation
+## Installation
 
 1. Register account at [Payment Wall](https://www.paymentwall.com/)
 2. Create new project
@@ -20,14 +23,14 @@ You can accept donations through [Payment Wall system](https://www.paymentwall.c
 6. Add link to page your.site.com/?module=pwall wherever you want.
 7. Test it!
 
-# Note
+## Note
 While your project in Test status - you can test it only while you logged in at [Payment Wall](https://www.paymentwall.com/). 
 
-#Bug reports
+## Bug reports
 
 Report bugs on GitHub, so they can be fixed ASAP. Or you can contact me at Hercules forum: [kenik](http://herc.ws/board/user/9024-kenik/)
 
-#Links
+## Links
 
 * FluxCP: https://github.com/HerculesWS/FluxCP
 * Payment Wall: https://www.paymentwall.com/
