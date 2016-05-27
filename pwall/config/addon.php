@@ -38,8 +38,8 @@ return array(
 
     'SubMenuItems' => array(
         'pwall' => array(
-            'index' => 'PWall_Donate',
-            'log'   => 'PWall_DonationsLog'
+            'index' => 'Donate',
+            'log'   => 'Donations log'
         ),
     )
 )
