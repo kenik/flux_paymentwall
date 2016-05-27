@@ -26,6 +26,9 @@ You can accept donations through [Payment Wall system](https://www.paymentwall.c
 ## Note
 While your project in Test status - you can test it only while you logged in at [Payment Wall](https://www.paymentwall.com/). 
 
+## Page example
+[See link](http://i.imgur.com/IceFUJA.png)
+
 ## Bug reports
 
 Report bugs on GitHub, so they can be fixed ASAP. Or you can contact me at Hercules forum: [kenik](http://herc.ws/board/user/9024-kenik/)
